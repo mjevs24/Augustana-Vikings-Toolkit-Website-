@@ -1,0 +1,6 @@
+{
+  "name": "Augustana Vikings Student-Athlete Well-Being Toolkit",
+  "description": "Evidence-informed resources, interactive worksheets, planning tools, and support systems for University of Alberta Augustana varsity student-athletes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
